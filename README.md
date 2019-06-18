@@ -1,7 +1,7 @@
 # StudentDatabase
 
 ## Summary
-The files above are all that is needed for the fictitious database application I created for CS415 Design of Databases. The SQL file populates a database with fictitious students, teachers, their schedules and grades, etc. The java files connect to the database as well as create a text interface which navigates the database. 
+The files above are all that is needed for the fictitious database application I created for CS415 Design of Databases. The SQL file populates a database with fictitious students, teachers, their schedules and grades, etc. The java files connect to the database as well as create a text interface which allows the user to navigate the database. 
 
 ### Features
 1. Log In
